@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModorno&display=swap');
+*{
+    font family:'MuseoModorno', cursive;
+  }
+  .container{
+    margin: 5px 80px;
+
+  }
+  .table{
+  margin: 0 50px;
+  }
